@@ -14,7 +14,7 @@ const PizzaDetalle = () => {
       <div className="card m-5 shadow-lg" >
         <div className="row ">
           <div className="col-md-4 ">
-            <img src={pizzaSeleccionada.img} alt={pizzaSeleccionada.name} />
+            <img src={pizzaSeleccionada.img} alt={pizzaSeleccionada.name} className="w-100 h-100" />
           </div>
           <div className="col-md-8">
             <div className="card-body ">
