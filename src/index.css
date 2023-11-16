@@ -1,0 +1,7 @@
+.PizzaFondo{
+    height: 20vh;
+    background-image: url(./src/Images/Navbar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
